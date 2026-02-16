@@ -1,0 +1,530 @@
+{
+  "events": [
+    {
+      "eventanalytics": {
+        "totalregistrants": 63,
+        "totalattendees": 44,
+        "liveattendees": 43,
+        "ondemandattendees": 3,
+        "averageliveminutes": 105,
+        "averagecumulativeliveminutes": 70,
+        "averagearchiveminutes": 14,
+        "averagecumulativearchiveminutes": 10,
+        "totalcumulativeliveminutes": 4529,
+        "totalcumulativearchiveminutes": 41,
+        "totalcumulativeminutes": 4570,
+        "totalmediaplayerminutes": 3978,
+        "totallivemediaplayerminutes": 3976,
+        "totalarchivemediaplayerminutes": 2
+      },
+      "eventid": 3631282,
+      "clientid": 10001,
+      "goodafter": "2022-02-22T09:00:00-08:00",
+      "isactive": true,
+      "ishybridevent": false,
+      "regrequired": true,
+      "description": "Capacitación interna: Estrategias de ventas de Delta para el éxito",
+      "promotionalsummary": "\u003Cp\u003E\u003Cspan style=\"color:#ffffff;\"\u003E\u003Cspan style=\"font-size:16px;\"\u003E\u003Cspan style=\"font-family:Arial,Helvetica,sans-serif;\"\u003ELas ventas de equipos de prueba de factor de potencia es un mercado de $40 millones, en constante crecimiento en las Am&eacute;ricas. \u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\n\n\u003Cp\u003E\u003Cspan style=\"color:#ffffff;\"\u003E\u003Cspan style=\"font-size:16px;\"\u003E\u003Cspan style=\"font-family:Arial,Helvetica,sans-serif;\"\u003Eclient actualmente fluct&uacute;a entre $1.5M y 3M en ventas, pero tiene un potencial significativo para duplicar su participaci&oacute;n en el mercado. \u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\n\n\u003Cp\u003E\u003Cspan style=\"color:#ffffff;\"\u003E\u003Cspan style=\"font-size:16px;\"\u003E\u003Cspan style=\"font-family:Arial,Helvetica,sans-serif;\"\u003EDr. Diego Robalino estar&aacute; compartiendo esta presentaci&oacute;n con ustedes, en la cu&aacute;l, se discutir&aacute;n las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  las estrategias necesarias para aprovechar los puntos de venta &uacute;nicos y la  innovaci&oacute;n de la oferta de productos de client, particularmente el Delta 4000. Tambi&eacute;n brindar&aacute; informaci&oacute;n sobre las mejores pr&aacute;cticas para ganar el inter&eacute;s de los clientes.\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\n\n\u003Cp\u003E\u003Cspan style=\"color:#ffffff;\"\u003E\u003Cspan style=\"font-size:16px;\"\u003E\u003Cspan style=\"font-family:Arial,Helvetica,sans-serif;\"\u003EEsta sesi&oacute;n es&nbsp;\u003Cstrong\u003EINTERNA\u003C/strong\u003E, por lo que por favor no la compartan con sus clientes.&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/p\u003E\n\n\u003Cp\u003E&nbsp;\u003C/p\u003E\n",
+      "regnotificationrequired": true,
+      "displaytimezonecd": "America/Chicago",
+      "eventtype": "Live Video and Audio",
+      "category": "Marketing",
+      "createdby": "Karen Becerril",
+      "createtimestamp": "2022-02-01T07:49:49-08:00",
+      "localelanguagecd": "es",
+      "lastmodified": "2025-12-02T00:21:40-08:00",
+      "iseliteexpired": "N",
+      "application": "Other",
+      "livestart": "2022-02-22T08:45:00-08:00",
+      "liveend": "2022-02-22T10:43:15-08:00",
+      "archivestart": "2022-02-22T11:00:00-08:00",
+      "archiveend": "2028-12-02T00:19:03-08:00",
+      "audienceurl": "https://event.w.com/wcc/r/3631282/8196AAE43EFDE1D7A3A6C3FEC3F4F9F9",
+      "scheduledeventduration": 90,
+      "eventprofile": "Stonehenge Profile (918)",
+      "streamtype": "video",
+      "audiencekey": "8196AAE43EFDE1D7A3A6C3FEC3F4F9F9",
+      "reporturl": "https://data.w.com/webcast/report?e=3631282&k=62A97415B229156C7DCD2D25D3DFCC7D",
+      "uploadurl": "https://wcc.w.com/webcast/login",
+      "speakers": [
+        {
+          "name": "Diego Robalino",
+          "title": "Business Development Director  Power Transformer",
+          "company": "client"
+        }
+      ],
+      "partnerrefstats": [
+        {
+          "code": "-",
+          "count": 126
+        }
+      ],
+      "tags": [
+        "Internal Training - PWR",
+        "US- PWR"
+      ],
+      "pmurl": "https://wcc.w.com/webcast/present?e=3631282&k=8B72CB6CF763024B5954FF29B4BD10DE",
+      "previewurl": "https://wcc.w.com/webcast/previewlobby?e=3631282&k=62A97415B229156C7DCD2D25D3DFCC7D",
+      "contenttype": "webcast",
+      "lastupdated": "2022-02-22T12:01:16-08:00",
+      "media": {
+        "videos": [
+          "http://pm.w.com/media/cv/events/1/1/28/2/rt/1_fhvideo1_1645555982740.mp4"
+        ],
+        "slides": [
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/44_E5980CD982490E90A9DB1D0F6F6E0BFD.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/45_35ACDAE8599C0659FA76AFB561656C0E.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/46_5FB4484C1D5319DED760222B03344E57.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/47_1F2BB7DF0A82A1301F0C94F8E851E350.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/48_D6522D9E1477D8EE733531E931BD30E6.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/49_FC14E5C4439DBBA149CDB08ADA58D7A6.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/50_2BD00EF2C7F2A27BEA95F89432E82446.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/51_B0A451E2CCE072946614E4FE0AF6511B.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide1645548350331/1_C02780BB62F49CA637E18097D55099B6.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/43_F40A1B5A16E44D2D91BD91B944EE56AD.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/42_0726D92748FD3C5E62CE02D342274DF4.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/41_6C8A16B0452670EAAF77CBA10973D88C.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/39_7A30CB1219D583E23B62E37942489240.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/40_8A649419D683BF38635C062F9AE1D795.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/38_390C12CEA59D48E1B20B4F2A0FF95DF6.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/37_1A51FDE68ADE1FE66CBB278036D5B7F1.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/36_860D25DADDD646E628F204E0C9DC257D.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/1_9B66BDA164F76A35BB0B323CF54695E4.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/2_D37D26CFB56BE2157704A56C60EBD3F6.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/3_1C046549F37675A998FEF441528AEFDC.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/4_FDA1A9ED602ACA14F1220E62DE038BFE.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/5_2EAD0AB2CB58351C2F4F02F4F9B5C7B7.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/6_E7210EE39E791983E8F6F3CAB783E3C9.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/7_85A41DDB0B5801FE721C80670016B01A.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/8_729A4F1CD133BF79781E7CBB11F39CF1.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/9_BD4F8C86D08BF9DAE86A12759805CB1C.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/10_3DC8AD2F4A8676713E9BF3DA42180045.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/11_83F48501E824B99F6D86FC03F87C3201.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/12_5C25C27CC75B1F9CB2185E596BE3746F.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/13_02B4D2C6FD4E08AE33B32E71948C481D.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/14_E54C8C4394DC94FF6F539451F17279C2.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/15_E84685AF70B3E380E9873AD9A0852A09.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/16_72D02FCF455705E194C97D27D372A372.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/17_9849EBCD8D0D7AB77F0C8173A4A80E4F.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/18_816EFF4A38DC08638C7FF599BEEB6ADE.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/19_F95943D8C322603B9D00B0589316E34E.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/20_528A9A0C899E02FA639B4F7580D26FD0.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/21_F4C6CBC2FEE76827ED9ECA1A8CC3464A.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/22_A9EDB86A7D0DCEB2907EABE5463246E0.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/23_D25EFA7A4FE1CFFF8277F4FF3DB7DD2F.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/24_833E9C112AB168191C6AB384F5A7F852.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/25_9DB1907F3C0304EB4E77195649DCFD48.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/26_C894B1C5AD19A1B79B1D395D6B6E7A7A.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/27_3FEED7390B8ABE8130C370E8EFE930AD.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/28_8F4305256477B1851553E52BB2FDFF34.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/29_BD5BE9499C0C39AAA2A795F1067827AB.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/30_7B66EEE191C36ACECBF08F34775A372A.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/31_5BB1073997381848C0C789032252F72D.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/32_D4A776EC7125250A93AA37FAFC6A1532.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/33_B8E744895F99FA1DC5CD63AE30CE89E9.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/34_D63874C7D8FE75F65BAF639941EC9076.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/35_D18C4F3F2C41593C9CAC8F4A12FE2CFA.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/35_D18C4F3F2C41593C9CAC8F4A12FE2CFB.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/35_D18C4F3F2C41593C9CAC8F4A12FE2CFC.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/35_D18C4F3F2C41593C9CAC8F4A12FE2CFD.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/35_D18C4F3F2C41593C9CAC8F4A12FE2CFE.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/35_D18C4F3F2C41593C9CAC8F4A12FE2CFF.jpg",
+          "http://event.w.com/event/1/1/28/2/rt/1/slide/slide/35_D18C4F3F2C41593C9CAC8F4A12FE2CAA.jpg"
+        ],
+        "urls": [
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayerminimize.html?sspush=true"
+        ]
+      },
+      "istestevent": false
+    },
+    {
+      "eventanalytics": {
+        "totalregistrants": 0,
+        "totalattendees": 0,
+        "liveattendees": 0,
+        "ondemandattendees": 0,
+        "averageliveminutes": 0,
+        "averagecumulativeliveminutes": 0,
+        "averagearchiveminutes": 0,
+        "averagecumulativearchiveminutes": 0,
+        "totalcumulativeliveminutes": 0,
+        "totalcumulativearchiveminutes": 0,
+        "totalcumulativeminutes": 0,
+        "totalmediaplayerminutes": 0,
+        "totallivemediaplayerminutes": 0,
+        "totalarchivemediaplayerminutes": 0
+      },
+      "eventid": 3591901,
+      "clientid": 10001,
+      "goodafter": "2022-01-05T07:00:00-08:00",
+      "isactive": true,
+      "ishybridevent": false,
+      "regrequired": true,
+      "description": "Test Webcast",
+      "regnotificationrequired": true,
+      "displaytimezonecd": "America/Chicago",
+      "eventtype": "Live Video and Audio",
+      "category": "Continuing Education",
+      "createdby": "VV",
+      "createtimestamp": "2022-01-04T11:55:13-08:00",
+      "localelanguagecd": "en",
+      "lastmodified": "2025-12-02T00:21:40-08:00",
+      "iseliteexpired": "N",
+      "application": "Other",
+      "livestart": "2022-01-05T06:45:00-08:00",
+      "liveend": "2022-01-05T08:00:00-08:00",
+      "archivestart": "2022-01-05T08:30:00-08:00",
+      "archiveend": "2028-12-02T00:19:03-08:00",
+      "audienceurl": "https://event.w.com/wcc/r/3591901/FDFA801B461DA07ABF8CBEE2AA469ADF",
+      "scheduledeventduration": 60,
+      "eventprofile": "Stonehenge Profile (918)",
+      "streamtype": "video",
+      "audiencekey": "FDFA801B461DA07ABF8CBEE2AA469ADF",
+      "reporturl": "https://data.w.com/webcast/report?e=3591901&k=932FA017B440B97E37463B0B522BAFA0",
+      "uploadurl": "https://wcc.w.com/webcast/login",
+      "speakers": [
+        {
+          "name": "AV",
+          "title": "Associate Director, Search & Evolution",
+          "description": "Tessa Grefenstete is helping the health tech sector integrate and grow within the continuously shifting landscape."
+        }
+      ],
+      "tags": [
+        "Cable"
+      ],
+      "pmurl": "https://wcc.w.com/webcast/present?e=3591901&k=880CD59B9215523BE76121D695757BAE",
+      "previewurl": "https://wcc.w.com/webcast/previewlobby?e=3591901&k=932FA017B440B97E37463B0B522BAFA0",
+      "contenttype": "webcast",
+      "lastupdated": "2022-01-04T11:55:13-08:00",
+      "istestevent": true
+    },
+    {
+      "eventanalytics": {
+        "totalregistrants": 3,
+        "totalattendees": 2,
+        "liveattendees": 1,
+        "ondemandattendees": 1,
+        "averageliveminutes": 20,
+        "averagecumulativeliveminutes": 20,
+        "averagearchiveminutes": 1,
+        "averagecumulativearchiveminutes": 1,
+        "totalcumulativeliveminutes": 20,
+        "totalcumulativearchiveminutes": 1,
+        "totalcumulativeminutes": 21,
+        "totalmediaplayerminutes": 20,
+        "totallivemediaplayerminutes": 20,
+        "totalarchivemediaplayerminutes": 0
+      },
+      "eventid": 3626074,
+      "clientid": 10001,
+      "goodafter": "2022-01-27T12:30:00-08:00",
+      "isactive": true,
+      "ishybridevent": false,
+      "regrequired": true,
+      "description": "Jan 27 test webcast",
+      "regnotificationrequired": true,
+      "displaytimezonecd": "US/Central",
+      "eventtype": "Live Video and Audio",
+      "createdby": "VV",
+      "createtimestamp": "2022-01-27T12:12:41-08:00",
+      "localelanguagecd": "en",
+      "lastmodified": "2025-12-02T00:21:40-08:00",
+      "iseliteexpired": "N",
+      "livestart": "2022-01-27T12:15:00-08:00",
+      "liveend": "2022-01-27T12:35:24-08:00",
+      "archivestart": "2022-01-27T14:00:00-08:00",
+      "archiveend": "2028-12-02T00:19:03-08:00",
+      "audienceurl": "https://event.w.com/wcc/r/3626074/9F00B9C44EF3E68AA0F6405232AC633A",
+      "scheduledeventduration": 60,
+      "eventprofile": "Stonehenge Profile (918)",
+      "streamtype": "video",
+      "audiencekey": "9F00B9C44EF3E68AA0F6405232AC633A",
+      "reporturl": "https://data.w.com/webcast/report?e=3626074&k=0B13AD8B6467344BB7C6CC8C03BB60BB",
+      "uploadurl": "https://wcc.w.com/webcast/login",
+      "speakers": [
+        {
+          "name": "VV",
+          "title": "Digital Marketing Specialist",
+          "company": "client",
+          "description": "VV enjoys long walks on the beach and things of that nature"
+        }
+      ],
+      "partnerrefstats": [
+        {
+          "code": "-",
+          "count": 5
+        }
+      ],
+      "pmurl": "https://wcc.w.com/webcast/present?e=3626074&k=16803D14F94F18EA0A0D2BC42A330C92",
+      "previewurl": "https://wcc.w.com/webcast/previewlobby?e=3626074&k=0B13AD8B6467344BB7C6CC8C03BB60BB",
+      "contenttype": "webcast",
+      "lastupdated": "2022-01-27T17:21:13-08:00",
+      "surveyurls": [
+        "https://event.w.com/eventManager/presentation/survey.jsp?eventId=3626074&sessionid=1&key=9F00B9C44EF3E68AA0F6405232AC633A&survey=survey1"
+      ],
+      "media": {
+        "videos": [
+          "http://pm.w.com/media/cv/events/1/1/07/4/rt/1_fhvideo1_1643316183102.mp4"
+        ],
+        "slides": [
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/1_7F0918942AEB99CE1AB824402D093D98.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643315508303/2_D23790D9AE0739E98101A6363CAC34D0.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643315508303/1_6184CFF6E6A8F00CF8AB07B0C9C34850.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/2_BE928C8DC80E8A60D43B7469ECD192C2.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/3_2985D74DB66412080D135C27382D5D4C.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/4_1BC4F57EC4219D1B1D6EB100635B08DE.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/5_21F92D06534E42BFFA0A66CC730EE3DE.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/6_58C01A3BC26DF664A6738BE917305E09.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/7_B3898FDE24C9085FDB83388097AB6B00.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/8_874A8611D3E5DA1E6879DE37DAD0CD16.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/9_931F3062003B38F45D4060C4865F0789.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/10_5B87B26E68AB03BE24A142764F678F8F.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/11_A8503024C9D248350501E82CEC08FA1F.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/12_409F825A35BDD101BF388B9B7136F96C.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/13_7633DEB0CFCA49866AF1C83008D1AEAB.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/14_BB5EA9BF7C404412B580C6AF938DCA83.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/15_5F5520FCBADD9BFF225BBE1FBB808C4B.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/16_0520D56E4BC61A12AA5F8B48D1396F51.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/17_65F08ED2BF87692397ED8CDF96BA9B31.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/18_39D8F5E6FCD6A30794CA1C8C5B941908.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/19_5DEB8DFFA3B7BA43B9ACAD1B6A3D4601.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/20_D931ED32C69EFD36C75D26A2A4BF770F.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/21_C8E9AE8B26CCADC78A106B5FF690912D.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/22_FA72FBA05F0DCC3D23E1E53003D836C2.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/23_99F69FB2BC7818C7E5CCAF98D3532058.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/24_4A9DBC38708E0576E96287A1CA00D17A.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/25_793CFC261F17AA82E8BFF256C78653D6.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/26_D6156B313A0AF132147BDFEDD0374E1D.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/27_C9EFE67CBEF53812BEDE3DF34D6F8216.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/28_0E0F399F6C9DCC61F4CD3755D9CEF9DC.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/29_0A38570D8ED04B90E7102D9B9EAAD91F.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/30_A410A2D723861B8D1AD3B764BF75C098.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/31_E2DC363E7266B0F1BD3C2CEB93DDC0AE.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/32_481F0EC2595A6E29F8F7359B1E072EEF.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/33_807E2A2B6886FEBB29BB392F40ABC9A8.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/34_D458F79E98C234157CB7E07967096C1F.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/35_19E87427CB8C605E373D434EF380A207.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/36_0108A131BE6CE6F3E75B4D01FCE4815F.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/37_71F693A036EA31E972FCA8C38D48C994.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/38_69F5811048763AABCDE67E3854ABC6E8.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/39_B7468833D6B70B85976E5A644AB3BD64.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/40_CDD6C9C3898C826ABBE69544DC44B619.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/41_71E451344F29B08DF8DC1454DB552686.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/42_42A8E23885B44226BECBB21180501CBE.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/43_F4DA592A66E095D11280D13B608A5197.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/44_CC76F40788E9DB376E03C90A8812D8D0.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/45_0D702E8755D28C09366517B174278378.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/46_0B80EA5B376EFD57852165A7BF93B853.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/47_7A3F9DB3746AB30CFEEC66A657DACC6F.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/48_F5B25E628338BE6834A458E8A7BED10D.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/49_43E9ED5DFBC8730915213F8C29C93171.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/50_0A65CB170FF98185C998DA426A8A3F0A.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/51_2828B4567D252083D5C64D66831610EE.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/52_8EA41EE3E2235E88CF6152602ED71E9A.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/53_E88DDD16CA2518B17E61304516B2FD2A.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/54_6674FDAA09748AA99BA728495A7251EC.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/55_B257EDCF81D9FA86EA7FF95EDA76757D.jpg",
+          "http://event.w.com/event/1/1/07/4/rt/1/slide/slide1643314805278/56_6CA1E76E5262AB708A3E2DF29D8158B9.jpg"
+        ],
+        "urls": [
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true"
+        ]
+      },
+      "istestevent": false
+    },
+    {
+      "eventanalytics": {
+        "totalregistrants": 1,
+        "totalattendees": 1,
+        "liveattendees": 1,
+        "ondemandattendees": 0,
+        "averageliveminutes": 8,
+        "averagecumulativeliveminutes": 4,
+        "averagearchiveminutes": 0,
+        "averagecumulativearchiveminutes": 0,
+        "totalcumulativeliveminutes": 8,
+        "totalcumulativearchiveminutes": 0,
+        "totalcumulativeminutes": 8,
+        "totalmediaplayerminutes": 8,
+        "totallivemediaplayerminutes": 8,
+        "totalarchivemediaplayerminutes": 0
+      },
+      "eventid": 3627768,
+      "clientid": 10001,
+      "goodafter": "2022-01-28T13:00:00-08:00",
+      "isactive": true,
+      "ishybridevent": false,
+      "regrequired": true,
+      "description": "January 28 test",
+      "promotionalsummary": "\u003Cstyle type=\"text/css\"\u003E.registration-section .login-link-container {\nbottom: 2px;\n}\n\u003C/style\u003E\n\u003Cstyle type=\"text/css\"\u003Ediv.header-container:before {\ndisplay: block;\ncontent: \"Regístrate ahora\";\ncolor: #e30613; \nfont-family: Arial;\nfont-size: 18px;\nmargin-bottom: 18px;\nfont-weight: 700;\nline-height: -1.42857143;\n}\ndiv.header-container \u003E div:first-child {\ndisplay: none;\n}\n\u003C/style\u003E\n\u003Ch1\u003E\u003Cimg alt=\"Transformador\" src=\"https://media.client.com/mediacontainer/medialibraries/clientes/images/2022 - 3 - march/transformador_600x400.jpg\" style=\"width: 600px; height: 400px;\" /\u003E\u003C/h1\u003E\n\n\u003Cp\u003E\u003Ca data-clipboard-text=\"https://webinars.w.com/client/IDAX\" id=\"vanity0\"\u003E\u003C/a\u003ELa humedad que se acumula en el sistema aislante de un transformador de potencia afecta a varias propiedades. En este webinar, descubre las ventajas de utilizar los analizadores de diagn&oacute;stico de aislamiento de \u003Cspan style=\"color:#e30613;\"\u003E\u003Cstrong\u003Eclient\u003C/strong\u003E\u003C/span\u003E, que utiliza la DFR (respuesta de frecuencia diel&eacute;ctrica). El sistema \u003Cspan style=\"color:#e30613;\"\u003E\u003Cstrong\u003EIDAX\u003C/strong\u003E\u003C/span\u003E proporcionan una evaluaci&oacute;n de estado precisa y confiable del aislamiento en transformadores\u003C/p\u003E\n",
+      "regnotificationrequired": true,
+      "displaytimezonecd": "US/Central",
+      "eventtype": "Live Video and Audio",
+      "category": "Marketing",
+      "createdby": "VV",
+      "createtimestamp": "2022-01-28T12:34:17-08:00",
+      "localelanguagecd": "en",
+      "lastmodified": "2025-12-02T00:21:40-08:00",
+      "iseliteexpired": "N",
+      "application": "Other",
+      "livestart": "2022-01-28T12:45:00-08:00",
+      "liveend": "2022-01-28T12:59:02-08:00",
+      "archivestart": "2022-01-28T14:30:00-08:00",
+      "archiveend": "2028-12-02T00:19:03-08:00",
+      "audienceurl": "https://event.w.com/wcc/r/3627768/70D9C592E55913AF7EF458F506EFE1AC",
+      "scheduledeventduration": 60,
+      "eventprofile": "Stonehenge Profile (918)",
+      "streamtype": "video",
+      "audiencekey": "70D9C592E55913AF7EF458F506EFE1AC",
+      "reporturl": "https://data.w.com/webcast/report?e=3627768&k=B5BD2BD084FCDEB3CA2DE245C599728E",
+      "uploadurl": "https://wcc.w.com/webcast/login",
+      "speakers": [
+        {
+          "name": "VV",
+          "title": "Digital Marketing Specialist",
+          "company": "client",
+          "description": "VV enjoys long walks on the beach and things of that nature"
+        }
+      ],
+      "partnerrefstats": [
+        {
+          "code": "-",
+          "count": 1
+        }
+      ],
+      "pmurl": "https://wcc.w.com/webcast/present?e=3627768&k=758450F2D1F248CF9B4228999411A0FE",
+      "previewurl": "https://wcc.w.com/webcast/previewlobby?e=3627768&k=B5BD2BD084FCDEB3CA2DE245C599728E",
+      "contenttype": "webcast",
+      "lastupdated": "2022-01-28T12:51:06-08:00",
+      "surveyurls": [
+        "https://event.w.com/eventManager/presentation/survey.jsp?eventId=3627768&sessionid=1&key=70D9C592E55913AF7EF458F506EFE1AC&survey=survey1"
+      ],
+      "media": {
+        "videos": [
+          "http://pm.w.com/media/cv/events/1/2/76/8/rt/1_fhvideo1_1643404081870.mp4"
+        ],
+        "slides": [
+          "http://event.w.com/event/1/2/76/8/rt/1/slide/slide1643403249322/1_57ECA7D704DA0436A26B861BAF5205BD.jpg",
+          "http://event.w.com/event/1/2/76/8/rt/1/slide/slide1643403249322/2_96F31DEB45CE019E579A3376BB57A079.jpg"
+        ],
+        "urls": [
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayerminimize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true"
+        ]
+      },
+      "istestevent": false
+    },
+    {
+      "eventanalytics": {
+        "totalregistrants": 0,
+        "totalattendees": 0,
+        "liveattendees": 0,
+        "ondemandattendees": 0,
+        "averageliveminutes": 0,
+        "averagecumulativeliveminutes": 0,
+        "averagearchiveminutes": 0,
+        "averagecumulativearchiveminutes": 0,
+        "totalcumulativeliveminutes": 0,
+        "totalcumulativearchiveminutes": 0,
+        "totalcumulativeminutes": 0,
+        "totalmediaplayerminutes": 0,
+        "totallivemediaplayerminutes": 0,
+        "totalarchivemediaplayerminutes": 0
+      },
+      "eventid": 3628729,
+      "clientid": 10001,
+      "goodafter": "2022-12-31T08:00:00-08:00",
+      "isactive": true,
+      "ishybridevent": false,
+      "regrequired": true,
+      "description": "Test Iberia Webinar",
+      "promotionalsummary": "\u003Cstyle type=\"text/css\"\u003E.registration-section .login-link-container {\nbottom: 2px;\n}\n\u003C/style\u003E\n\u003Cstyle type=\"text/css\"\u003Ediv.header-container:before {\ndisplay: block;\ncontent: \"Regístrate ahora\";\ncolor: #e30613; \nfont-family: Arial;\nfont-size: 18px;\nmargin-bottom: 18px;\nfont-weight: 700;\nline-height: -1.42857143;\n}\ndiv.header-container \u003E div:first-child {\ndisplay: none;\n}\n\u003C/style\u003E\n\u003Ch1\u003E\u003Cimg alt=\"Transformador\" src=\"https://media.client.com/mediacontainer/medialibraries/clientes/images/2022 - 3 - march/transformador_600x400.jpg\" style=\"width: 600px; height: 400px;\" /\u003E\u003C/h1\u003E\n\n\u003Cp\u003E\u003Ca data-clipboard-text=\"https://webinars.w.com/client/IDAX\" id=\"vanity0\"\u003E\u003C/a\u003ELa humedad que se acumula en el sistema aislante de un transformador de potencia afecta a varias propiedades. En este webinar, descubre las ventajas de utilizar los analizadores de diagn&oacute;stico de aislamiento de \u003Cspan style=\"color:#e30613;\"\u003E\u003Cstrong\u003Eclient\u003C/strong\u003E\u003C/span\u003E, que utiliza la DFR (respuesta de frecuencia diel&eacute;ctrica). El sistema \u003Cspan style=\"color:#e30613;\"\u003E\u003Cstrong\u003EIDAX\u003C/strong\u003E\u003C/span\u003E proporcionan una evaluaci&oacute;n de estado precisa y confiable del aislamiento en transformadores\u003C/p\u003E\n",
+      "regnotificationrequired": true,
+      "displaytimezonecd": "Europe/Madrid",
+      "eventtype": "Live Video and Audio",
+      "category": "Training/Learning",
+      "createdby": "Carola Argiro",
+      "createtimestamp": "2022-01-31T06:09:21-08:00",
+      "localelanguagecd": "es",
+      "lastmodified": "2025-12-02T00:21:40-08:00",
+      "iseliteexpired": "N",
+      "application": "Other",
+      "livestart": "2022-12-31T07:45:00-08:00",
+      "liveend": "2022-12-31T09:00:00-08:00",
+      "archivestart": "2022-12-31T09:30:00-08:00",
+      "archiveend": "2028-12-02T00:19:03-08:00",
+      "audienceurl": "https://event.w.com/wcc/r/3628729/B38ECECFF88C36FD1A448FE9D82EDB6A",
+      "scheduledeventduration": 60,
+      "eventprofile": "Stonehenge Profile (918)",
+      "streamtype": "video",
+      "audiencekey": "B38ECECFF88C36FD1A448FE9D82EDB6A",
+      "reporturl": "https://data.w.com/webcast/report?e=3628729&k=BF981AB7056C48B64DCBC0BD04C6EBA0",
+      "uploadurl": "https://wcc.w.com/webcast/login",
+      "speakers": [
+        {
+          "name": "33",
+          "title": "Asesor Técnio & Comercial",
+          "company": "client",
+          "description": "Especialista en pruebas de Commisioning, para cables de media y alta tensión, pruebas en transformadores de potencia, Coordinador de Proyectos, Energía Solar, equipos de ensayos no destructivos y Protección Catódica."
+        },
+        {
+          "name": "dd",
+          "title": "Asesor Técnio & Comercial",
+          "company": "client",
+          "description": "Técnico experto en localización de fallos en redes y subestaciones."
+        },
+        {
+          "name": "22e",
+          "title": "Asesor Técnio & Comercial",
+          "company": "client"
+        }
+      ],
+      "partnerrefstats": [
+        {
+          "code": "-",
+          "count": 17
+        }
+      ],
+      "tags": [
+        "Iberia",
+        "Spanish"
+      ],
+      "pmurl": "https://wcc.w.com/webcast/present?e=3628729&k=CC2E1223818B18F859AFE6F08D5A9096",
+      "previewurl": "https://wcc.w.com/webcast/previewlobby?e=3628729&k=BF981AB7056C48B64DCBC0BD04C6EBA0",
+      "contenttype": "webcast",
+      "lastupdated": "2022-01-31T06:09:21-08:00",
+      "surveyurls": [
+        "https://event.w.com/eventManager/presentation/survey.jsp?eventId=3628729&sessionid=1&key=B38ECECFF88C36FD1A448FE9D82EDB6A&survey=survey1"
+      ],
+      "media": {
+        "slides": [
+          "http://event.w.com/event/1/2/72/9/rt/1/slide/slide/6_C1FD30CD58A5077AF497D7A3F59E8368.jpg",
+          "http://event.w.com/event/1/2/72/9/rt/1/slide/slide/7_B9EB197E6F657A669D115F7E7FDB3DC2.jpg",
+          "http://event.w.com/event/1/2/72/9/rt/1/slide/slide/3_E4E4E003ACB59E2B4191F8A7831E8293.jpg",
+          "http://event.w.com/event/1/2/72/9/rt/1/slide/slide/4_65CE76F526402F1928E4FCBC53FB0C5B.jpg",
+          "http://event.w.com/event/1/2/72/9/rt/1/slide/slide/5_538B525181A6B77DD4A3A2E56340262A.jpg",
+          "http://event.w.com/event/1/2/72/9/rt/1/slide/slide/1_6A53BDDCF9D0A2742ABE241607A4075B.jpg",
+          "http://event.w.com/event/1/2/72/9/rt/1/slide/slide/2_766735356BFEFC9574E83997A21ECC2D.jpg"
+        ],
+        "urls": [
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayerminimize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayerminimize.html?sspush=true",
+          "//pm.w.com/utils/mediaplayermaximize.html?sspush=true"
+        ],
+        "polls": [
+          "http://event.w.com/eventManager/EventQuestionServlet?mode=get&eventid=3628729&mediaurlid=210843673",
+          "http://event.w.com/eventManager/EventQuestionServlet?mode=get&eventid=3628729&mediaurlid=210843737"
+        ]
+      },
+      "socialsharingimage": "https://event.w.com/event/1/2/72/9/rt/1/images/socialsharing/220315__idax4.jpg",
+      "socialsharingabstract": "La humedad que se acumula en el sistema aislante de un transformador de potencia afecta a varias propiedades. En este webinar, descubre las ventajas de utilizar los analizadores de diagnóstico de aislamiento de client, que utiliza la DFR (respuesta de frecuencia dieléctrica). El sistema IDAX proporcionan una evaluación de estado precisa y confiable del aislamiento en transformadores.",
+      "istestevent": true
+    }
+  ]
+}
