@@ -15,8 +15,11 @@ server.use((req, res, next) => {
     let events = db.get('events').value(); // Get all events
     
     // Get pagination parameters from headers or query params
-    const pageNumber = parseInt(req.headers['pagenumber'] || req.query.pagenumber || 0);
-    const pageSize = parseInt(req.headers['pagesize'] || req.query.pagesize || 10);
+    // const pageNumber = parseInt(req.headers['pagenumber'] || req.query.pagenumber || 0);
+    // const pageSize = parseInt(req.headers['pagesize'] || req.query.pagesize || 10);
+
+    const pageNumber = parseInt(req.query.pagenumber || 0);
+    const pageSize = parseInt(req.query.pagesize || 100);
     
     // Apply any filters first
     const queryParams = { ...req.query };
