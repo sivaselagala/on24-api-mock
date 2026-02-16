@@ -58,6 +58,16 @@ server.use((req, res, next) => {
     const pageCount = Math.ceil(totalEvents / pageSize);
     const currentPage = pageNumber;
     
+    // Validation: Check if currentPage is out of valid range
+    // Valid range is 0 to (pageCount - 1)
+    const maxValidPage = pageCount - 1;
+    
+    if (currentPage < 0 || currentPage > maxValidPage) {
+      return res.status(400).json({
+        message: `Invalid pageOffset, range must be between 0 and ${maxValidPage}.`
+      });
+    }
+    
     // Calculate start and end indices for pagination
     const startIndex = pageNumber * pageSize;
     const endIndex = startIndex + pageSize;
