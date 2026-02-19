@@ -83,11 +83,41 @@ server.use((req, res, next) => {
     
     const pageNumber = parseInt(req.query.pagenumber || 0);
     const pageSize = parseInt(req.query.pagesize || 100);
+
+    // Get date range parameters
+    const startDate = req.query.startDate;
+    const endDate = req.query.endDate;
     
     // Apply filters
     const queryParams = { ...req.query };
     delete queryParams.pagenumber;
     delete queryParams.pagesize;
+    delete queryParams.startDate;
+    delete queryParams.endDate;
+
+    // Apply date range filter if provided
+    if (startDate || endDate) {
+      registrants = registrants.filter(registrant => {
+        const lastActivity = registrant.lastactivity;
+        if (!lastActivity) return false;
+        
+        const activityDate = new Date(lastActivity);
+        
+        // Filter by startDate if provided
+        if (startDate) {
+          const start = new Date(startDate);
+          if (activityDate < start) return false;
+        }
+        
+        // Filter by endDate if provided
+        if (endDate) {
+          const end = new Date(endDate);
+          if (activityDate > end) return false;
+        }
+        
+        return true;
+      });
+    }
     
     Object.keys(queryParams).forEach(key => {
       if (key !== '_sort' && key !== '_order') {
