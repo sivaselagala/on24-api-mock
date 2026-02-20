@@ -262,8 +262,8 @@ server.use((req, res, next) => {
     const response = {
       currentpage: currentPage,
       pagecount: pageCount,
-      totalregistrants: totalattendees,
-      registrants: paginatedattendees
+      totalattendees: totalattendees,
+      attendees: paginatedattendees
     };
     
     res.json(response);
