@@ -1257,6 +1257,199 @@
       ]
     }
   ]
+},
+    {
+  "eventid": 3626074,
+  "surveys": [
+    {
+      "surveyid": "3626074_survey1",
+      "surveycode": "survey1",
+      "surveyquestions": [
+        {
+          "questionid": 49398014,
+          "questiontype": "singleoption",
+          "question": "Please rate the overall quality of the webinar's content",
+          "responses": 96,
+          "surveyanswer": [
+            {
+              "answercode": "choice1",
+              "answer": "Excellent",
+              "percentage": 69.8
+            },
+            {
+              "answercode": "choice2",
+              "answer": "Good",
+              "percentage": 27.1
+            },
+            {
+              "answercode": "choice3",
+              "answer": "Fair",
+              "percentage": 3.1
+            },
+            {
+              "answercode": "choice4",
+              "answer": "Poor",
+              "percentage": 0.0
+            }
+          ]
+        },
+        {
+          "questionid": 49398015,
+          "questiontype": "singleoption",
+          "question": "Please rate the overall effectiveness of the speaker",
+          "responses": 96,
+          "surveyanswer": [
+            {
+              "answercode": "choice1",
+              "answer": "Excellent",
+              "percentage": 71.9
+            },
+            {
+              "answercode": "choice2",
+              "answer": "Good",
+              "percentage": 26.1
+            },
+            {
+              "answercode": "choice3",
+              "answer": "Fair",
+              "percentage": 1.0
+            },
+            {
+              "answercode": "choice4",
+              "answer": "Poor",
+              "percentage": 1.0
+            }
+          ]
+        },
+        {
+          "questionid": 49398016,
+          "questiontype": "multioption",
+          "question": "How did you hear about this webinar? (Check all that apply)",
+          "responses": 95,
+          "surveyanswer": [
+            {
+              "answercode": "choice1",
+              "answer": "From ABC's email list",
+              "percentage": 67.3
+            },
+            {
+              "answercode": "choice2",
+              "answer": "From ABC's website",
+              "percentage": 21.0
+            },
+            {
+              "answercode": "choice3",
+              "answer": "From Social Media",
+              "percentage": 16.8
+            },
+            {
+              "answercode": "choice4",
+              "answer": "Trade magazine's print or digital ad",
+              "percentage": 3.1
+            },
+            {
+              "answercode": "choice5",
+              "answer": "From my colleague",
+              "percentage": 10.5
+            },
+            {
+              "answercode": "choice6",
+              "answer": "From my local ABC representative",
+              "percentage": 1.0
+            }
+          ]
+        },
+        {
+          "questionid": 49398017,
+          "questiontype": "singleoption",
+          "question": "Would you recommend this webinar to others?",
+          "responses": 90,
+          "surveyanswer": [
+            {
+              "answercode": "choice1",
+              "answer": "Yes",
+              "percentage": 97.8
+            },
+            {
+              "answercode": "choice2",
+              "answer": "No",
+              "percentage": 2.2
+            }
+          ]
+        },
+        {
+          "questionid": 493980918,
+          "questiontype": "multioption",
+          "question": "Would you like to: (Check all that apply)",
+          "responses": 84,
+          "surveyanswer": [
+            {
+              "answercode": "choice1",
+              "answer": "Continue to receive email updates from ABC",
+              "percentage": 95.2
+            },
+            {
+              "answercode": "choice2",
+              "answer": "Schedule a demonstration at your facility",
+              "percentage": 8.3
+            },
+            {
+              "answercode": "choice3",
+              "answer": "Be contacted for consultation",
+              "percentage": 8.3
+            },
+            {
+              "answercode": "choice4",
+              "answer": "Request a quote",
+              "percentage": 4.7
+            }
+          ]
+        },
+        {
+          "questionid": 49398019,
+          "questiontype": "singletext",
+          "question": "Preferred method of contact:",
+          "responses": 45
+        },
+        {
+          "questionid": 49398020,
+          "questiontype": "singleoption",
+          "question": "Does your company currently use ABC equipment?",
+          "responses": 84,
+          "surveyanswer": [
+            {
+              "answercode": "choice1",
+              "answer": "Yes",
+              "percentage": 72.7
+            },
+            {
+              "answercode": "choice2",
+              "answer": "No",
+              "percentage": 27.3
+            }
+          ]
+        },
+        {
+          "questionid": 49398021,
+          "questiontype": "singletext",
+          "question": "If your company currently uses ABC equipment, please list which types of equipment",
+          "responses": 44
+        },
+        {
+          "questionid": 49398022,
+          "questiontype": "singletext",
+          "question": "Suggestions for future webinars:",
+          "responses": 32
+        },
+        {
+          "questionid": 49398023,
+          "questiontype": "singletext",
+          "question": "Any other questions or comments:",
+          "responses": 27
+        }
+      ]
+    }
+  ]
 }
   ]
 }
