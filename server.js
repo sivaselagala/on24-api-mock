@@ -268,6 +268,29 @@ server.use((req, res, next) => {
     
     res.json(response);
   }
+
+    // Handle /event/:eventid/survey endpoint
+  else if (req.path.match(/^\/event\/\d+\/survey$/) && req.method === 'GET') {
+    const db = router.db;
+    
+    // Extract eventid from path
+    const eventid = parseInt(req.path.split('/')[2]);
+    
+    // Get all surveys
+    let surveys = db.get('surveys').value();
+    
+    // Find survey for the specific eventid
+    const eventSurvey = surveys.find(s => s.eventid === eventid);
+    
+    if (!eventSurvey) {
+      return res.status(404).json({
+        message: `No survey found for event ID ${eventid}`
+      });
+    }
+    
+    // Return the survey data
+    res.json(eventSurvey);
+  }
   else {
     next();
   }
@@ -278,4 +301,9 @@ server.use(router);
 server.listen(port, () => {
   console.log(`JSON Server is running on port ${port}`);
   console.log(`Use headers or query params: pagenumber and pagesize for pagination`);
+  console.log(`Available endpoints:`);
+  console.log(`  - GET /events (with pagination)`);
+  console.log(`  - GET /registrants (with pagination and date filtering)`);
+  console.log(`  - GET /attendee (with pagination and date filtering)`);
+  console.log(`  - GET /event/:eventid/survey (survey by event ID)`)
 });
